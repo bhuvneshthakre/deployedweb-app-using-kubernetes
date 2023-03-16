@@ -1,4 +1,4 @@
-## 3d-webapp
+## 3d-web-app
 
 A basic 3D static webapp deployed on Kubernetes cluster.
 
