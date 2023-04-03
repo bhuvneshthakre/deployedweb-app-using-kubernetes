@@ -38,7 +38,7 @@ After a sucessful test on docker, you can deploy the app on a Kubernetes cluster
 
 A dynamic todo app deployed on Kubernetes cluster.
 
-### How to run:
+### How to run: all
 
 * Clone the repo
 * ```kubectl create ns todo``` -- Create a namespace
