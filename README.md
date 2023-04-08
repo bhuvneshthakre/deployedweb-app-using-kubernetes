@@ -49,7 +49,7 @@ A dynamic todo app deployed on Kubernetes cluster.
 * ```kubectl get service todo```
 * ```kubectl apply -f todo-sql-app/deploy/mysql-v1.yaml``` -- Deploy mysql
 * ```stern mysql``` -- Check the tail-logs
-* ```kubectl apply -f todo-sql-app/deploy/todo-v2.yaml``` -- Deploy the app with mysql yes
+* ```kubectl apply -f todo-sql-app/deploy/todo-v2.yaml``` -- Deploy the app with mysql
 
 
 
